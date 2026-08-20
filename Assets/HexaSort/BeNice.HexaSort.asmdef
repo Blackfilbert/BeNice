@@ -1,0 +1,17 @@
+{
+    "name": "BeNice.HexaSort",
+    "rootNamespace": "",
+    "references": [
+        "VContainer",
+        "Unity.Luna"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

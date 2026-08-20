@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ec422b2a46af7242bfd7fe8a1c8e2a6, type: 3}
+  m_Name: New Hex Gameplay Config
+  m_EditorClassIdentifier: 
+  _cellSize: 0.65
+  _cellSpacing: 0.08
+  _tileHeight: 0.14
+  _tileVerticalStep: 0.12
+  _clearThreshold: 9
+  _maxReactionSteps: 128
+  _placementRadius: 0.75
+  _dragHeight: 0.75
+  _dragScale: 1.08
+  _bottomStackScale: {x: 1, y: 1, z: 1}
+  _animationDurationMultiplier: 5
+  _returnDuration: 0.5
+  _placeDuration: 0.05
+  _mergeTileDuration: 0.1
+  _mergeTileStagger: 0.01
+  _mergeArcHeight: 0.35
+  _clearDuration: 0.12
+  _reactionAcceleration: 1.3
+  _maxReactionSpeedMultiplier: 4
+  _tutorialMoveDuration: 1.5
+  _tutorialTargetPause: 0.5
+  _tutorialReturnDuration: 0.6
+  _tutorialRetryDelay: 2
+  _cellPrefab: {fileID: 5453242969664637279, guid: 114a3c882e5c9f6428be4eff863ed84e, type: 3}
+  _tilePrefab: {fileID: 2451419601589066385, guid: 9d50897cd7a73de4881faf0e49e18e6c, type: 3}
+  _stackPrefab: {fileID: 7502444940967838260, guid: 9bd8f440aecc09942a35360ec0f642b9, type: 3}
+  _materials:
+  - _color: 0
+    _material: {fileID: 2100000, guid: d5a96b26fc5dd014c897fe361d6d6289, type: 2}
+  - _color: 1
+    _material: {fileID: 2100000, guid: 203dffde3044f5e41992a5a62d79db02, type: 2}
+  - _color: 2
+    _material: {fileID: 2100000, guid: 393794209592cac4fa4d6bf624ec32f1, type: 2}
+  - _color: 3
+    _material: {fileID: 2100000, guid: 03c4a1ca79a8daf419eebe9a8e257e92, type: 2}
+  - _color: 4
+    _material: {fileID: 2100000, guid: e724ce2294f98c1439718f60ad7d35ad, type: 2}
+  - _color: 5
+    _material: {fileID: 2100000, guid: 82f804c1dbbe88f439c194429fbed308, type: 2}
+  - _color: 6
+    _material: {fileID: 2100000, guid: de0077e221caeed408e0b16ff1282622, type: 2}

@@ -1,0 +1,21 @@
+{
+    "name": "BeNice.HexaSort.EditModeTests",
+    "rootNamespace": "",
+    "references": [
+        "BeNice.HexaSort"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "noEngineReferences": false
+}
